@@ -1,0 +1,14 @@
+/vendor
+/auth_keys
+/.idea
+/plugins
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+/public/storage
+
+storage/.DS_Store
+
+.DS_Store
+.gitlab-ci.yml
