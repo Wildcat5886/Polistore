@@ -3,7 +3,6 @@
 /.idea
 /plugins
 Homestead.json
-Homestead.yaml
 .env
 .phpunit.result.cache
 /public/storage
@@ -11,4 +10,3 @@ Homestead.yaml
 storage/.DS_Store
 
 .DS_Store
-.gitlab-ci.yml
