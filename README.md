@@ -1,6 +1,6 @@
 <h2> Proyecto: Integración continua</h2>
 <p>
-  <em><a href="https://www.poli.edu.co/">Politecnico Grancolombiano</a> ✨  </em>
+  <em><a href="https://www.poli.edu.co/">Politecnico Grancolombiano</a> ✨ </em>
  </p>
 <p>Entegra 1</p>
 
